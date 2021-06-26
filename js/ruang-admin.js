@@ -80,6 +80,6 @@ $('.popover-dismiss').popover({
 
 // Version in Sidebar
 
-var oleh = document.getElementById('oleh-siapa');
+var version = document.getElementById('version-ruangadmin');
 
-oleh.innerHTML = "Fauzan Rifki Maulana";
+version.innerHTML = "Fauzan Rifki Maulana";
