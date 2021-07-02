@@ -5,6 +5,7 @@ window.setTimeout("getip()",1000);
 	xhr.onloadend=function(){
 	data=JSON.parse(this.responseText);
 	document.getElementById("ipanda").textContent=data.ip
+	ipanda = data.ip
 	};
 	xhr.open("GET",url,true);
 	xhr.send();
