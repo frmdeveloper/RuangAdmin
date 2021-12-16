@@ -1962,5 +1962,6 @@ body.sidebar-toggled footer.sticky-footer {
   font-weight: 400;
 }
 .img-qr {
-  display:block;margin:auto
+  display:block;
+  margin:auto;
 }
