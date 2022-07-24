@@ -1884,8 +1884,8 @@ body.sidebar-toggled footer.sticky-footer {
 }
 
 .card {
-    -webkit-box-shadow: 0 .15rem 1.75rem 0 rgba(58, 59, 69, .15) !important;
-    box-shadow: 0 .15rem 1.75rem 0 rgba(58, 59, 69, .15) !important
+    -webkit-box-shadow: 0 .15rem 1.75rem 0 rgba(255, 255, 255, .15) !important;
+    box-shadow: 0 .15rem 1.75rem 0 rgba(255, 255, 255, .15) !important
 }
 
 .input-group-append .btn {
